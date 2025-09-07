@@ -9,6 +9,6 @@ This is a class repo for learning concepts of programming in C/C++.
 | AMWESIGA TRONNIE   | 2025/BCS/033/PS | Member 
 | KISSA KEITH NDIEMA | 2025/BCS/101/PS | Member
 | NAMANYA FLORENCE| 2025/BCS/ 214 /PS |Ass. Secretary 
-| BULWADDA TITUS TREVOR | 2025/BCS/ 071/PS | Member
+| BULWADDA TITUS TREVOR | 2025/BCS/071/PS | Member
 | WASENDA BLASIO MARVIN | 2025/BCS/185/PS | Member
 |PROSPER MUGAGGA | 2025/BCS/  /PS | Member
