@@ -8,13 +8,13 @@ int main(){
 
     while (1){
             // loop continuously until customer decides to EIXT
-
     printf("====Welcome to C Vending Machine====\n");
     printf("1. Soda\t\t -%d UGX\n", SODA);
     printf("2. Water\t -%d UGX\n", WATER);
     printf("3. Juice\t -%d UGX\n", JUICE);
     printf("4. Crisps\t -%d UGX\n",CRISPS);
     printf("5. Chocolate\t -%d UGX\n",CHOCOLATE);
+
     printf("0. Exit\n");
 
     printf("Enter Item Number (or 0 to Exit):");
@@ -36,4 +36,3 @@ int main(){
     }
     return 0;
 }
-

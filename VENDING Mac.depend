@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
+1757318757 source:d:\desktop\project work\vending mac\main.c
+	<stdio.h>
+	<stdlib.h>
+
 1758497179 source:d:\desktop\c project\vending machine\main.c
 	<stdio.h>
 	<stdlib.h>
 	"vending_machine.h"
 
 1758491431 d:\desktop\c project\vending machine\vending_machine.h
-
-1758493305 source:d:\desktop\c project\vending machine\vending_machine.c
-	<stdio.h>
-	"vending_machine.h"
 
